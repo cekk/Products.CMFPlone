@@ -8,7 +8,8 @@ Changelog
 5.0.1 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add ``pat-base`` to registry.
+  [Gagaro]
 
 
 5.0 (2015-09-27)
